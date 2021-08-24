@@ -1,4 +1,6 @@
-# flashtype
+# FlashType
+
+We can check our typing speed through this FlashType Portal.
 
 1. http://metaphorpsum.com/
 
